@@ -16,7 +16,7 @@ This project is a Python-based web scraping tool designed to extract quotes, aut
 
 ## Prerequisites
 Ensure you have the following installed:
-- Python 3.x
+- Python3
 - Required Libraries:
   ```bash
   pip install requests beautifulsoup4
